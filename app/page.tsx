@@ -32,8 +32,8 @@ export default function Home() {
     </section>
     <section className="cards" aria-label="Identifiants partagés">
       <SecretCard brand="mail" eyebrow="Compte principal" title="Notre adresse commune" email="notre-groupe@exemple.com" password="Exemple-uniquement-2026" meta="Le point d’entrée pour tous nos abonnements"/>
-      <SecretCard brand="disney" eyebrow="Streaming" title="Disney+" email="notre-groupe@exemple.com" password="Exemple-Disney-2026" meta="Formule Premium · Prochaine échéance le 12 sept."/>
-      <SecretCard brand="netflix" eyebrow="Streaming" title="Netflix" email="notre-groupe@exemple.com" password="Exemple-Netflix-2026" meta="Formule Premium · Prochaine échéance le 18 sept."/>
+      <SecretCard brand="disney" eyebrow="Streaming" title="Disney+" email="notre-groupe@exemple.com" password="Exemple-Disney-2026" meta="Formule Premium · Prochaine échéance le 1er septembre"/>
+      <SecretCard brand="netflix" eyebrow="Streaming" title="Netflix" email="notre-groupe@exemple.com" password="Exemple-Netflix-2026" meta="Formule Premium · Prochaine échéance le 1er septembre"/>
     </section>
     <aside className="safety"><span aria-hidden="true">⌁</span><div><strong>Petit rappel entre amis</strong><p>Les données affichées ici sont fictives. Pour le vrai site, gardez les mots de passe dans un coffre partagé sécurisé.</p></div></aside>
     <footer><p>Fait pour les soirées qui commencent à l’heure.</p><span>Mis à jour le 26 août 2026</span></footer>
